@@ -1,0 +1,82 @@
+body {
+  background-color: rgb(16, 16, 16);
+  color: lightgray;
+}
+img {
+  box-shadow: 1px 5px 23px 1px black;
+}
+div > p {
+  margin-bottom: 0px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#button {
+  margin-left: 31px;
+  margin-top: 50px;
+  margin-left: 31px;
+  margin-bottom: 47px;
+}
+p.Queen.ml-3 {
+  margin-top: -17px;
+  color: grey;
+}
+#queen {
+  margin-top: 0px;
+  margin-left: 20px;
+  color: grey;
+}
+.card-img-top {
+  width: 81%;
+}
+.card-title {
+  margin-left: 15px;
+}
+
+.card-text:last-child {
+  margin-top: 7px;
+  margin-left: -16px;
+}
+
+.bi.bi-heart:hover {
+  fill: red;
+  filter: grayscale(100%) sepia(100%);
+}
+
+a {
+  display: contents;
+  color: currentColor;
+}
+
+a:hover {
+  color: grey;
+  text-decoration: underline;
+}
+
+p {
+  padding-top: 10px;
+  margin-bottom: 0rem;
+}
+
+h5 {
+  padding-left: 0px;
+  font-size: 20px;
+  margin-left: -12px;
+  padding-bottom: 0px;
+  margin-bottom: -4px;
+}
+
+.babe {
+  margin-top: 67px;
+}
+
+img {
+  padding-top: 15px;
+  margin-left: 30px;
+}
+
+li {
+  padding-top: 15px;
+}
