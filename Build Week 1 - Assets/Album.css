@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(16, 16, 16);
+  color: lightgray;
+}
+img {
+  box-shadow: 1px 5px 23px 1px black;
+}
+div > p {
+  margin-bottom: 0px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#button {
+  margin-top: 20px;
+  margin-left: 31px;
+}
+
+#queen {
+  margin-left: 20px;
+}
+
+.card-title {
+  margin-left: 15px;
+}
+
+.card-text:last-child {
+  margin-top: 7px;
+  margin-left: -16px;
+}
+
+.bi.bi-heart:hover {
+  fill: red;
+  filter: grayscale(100%) sepia(100%);
+}
+
+li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
