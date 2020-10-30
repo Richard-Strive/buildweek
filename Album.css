@@ -126,3 +126,71 @@ li {
       0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
   }
 }
+
+.footah {
+  height: 10vh !important;
+  background-color: rgb(22, 22, 22) !important;
+  border-top: 2px solid black;
+}
+
+.nav-link {
+  color: #3f3f3f;
+  text-emphasis: none;
+  text-decoration-color: none;
+}
+
+.nav-link:hover {
+  color: white;
+  text-emphasis: none;
+  text-decoration-color: none;
+}
+
+.up a {
+  color: #616467;
+  text-emphasis: none;
+  text-decoration-color: none;
+}
+
+.up a:hover {
+  color: #1db954;
+  text-emphasis: none;
+  text-decoration-color: none;
+}
+
+.separatore {
+  border-left: 1px solid #616467;
+}
+
+.down .btn {
+  border: 1px solid white;
+  border-radius: 2rem;
+  color: white;
+}
+
+.down .btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.navbar .row,
+.navbar .row .col {
+  width: 100%;
+}
+
+.navbar a {
+  text-decoration: none;
+  text-decoration-color: none;
+  color: #616467;
+}
+
+.navbar a:hover,
+.navbar a:active,
+.navbar a:focus {
+  text-decoration: none;
+  text-decoration-color: none;
+  color: white;
+}
+
+.play {
+  font-size: larger;
+}
